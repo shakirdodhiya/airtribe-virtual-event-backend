@@ -82,7 +82,7 @@ This command will start server on http://localhost:3000
 ### 10. Cancel event participation
 
 - Path : /events/:id/cancel-registration
-- Method : PUT
+- Method : POST
 - Description : This API cancels registration to an event.
 
 ## How to test
